@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Delegates\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\User\source\repos\Delegates\Delegates\bin\Debug\Delegates.exe
+C:\Users\User\source\repos\Delegates\Delegates\bin\Debug\Delegates.pdb
+C:\Users\User\source\repos\Delegates\Delegates\obj\Debug\Delegates.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Delegates\Delegates\obj\Debug\Delegates.Form1.resources
+C:\Users\User\source\repos\Delegates\Delegates\obj\Debug\Delegates.Properties.Resources.resources
+C:\Users\User\source\repos\Delegates\Delegates\obj\Debug\Delegates.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Delegates\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Delegates\Delegates\obj\Debug\Delegates.exe
+C:\Users\User\source\repos\Delegates\Delegates\obj\Debug\Delegates.pdb
